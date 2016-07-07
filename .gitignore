@@ -1,0 +1,23 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/HCUK.IoT/HCUK.IoT.AzureIoTServices/bin/Debug
+/HCUK.IoT/HCUK.IoT.AzureIoTServices/obj/Debug
+/HCUK.IoT/HCUK.IoT.DeviceSimulators.TPSensor/bin/Debug
+/HCUK.IoT/HCUK.IoT.DeviceSimulators.TPSensor/obj/Debug
+/HCUK.IoT/HCUK.IoT.Model/bin/Debug
+/HCUK.IoT/HCUK.IoT.Model/obj/Debug
+/HCUK.IoT/packages
+/HCUK.OnlineEmotionRecognition/HCUK.CameraSimulator/bin/Debug
+/HCUK.OnlineEmotionRecognition/HCUK.CameraSimulator/obj/Debug
+/HCUK.OnlineEmotionRecognition/HCUK.EmotionDetector/bin/Debug
+/HCUK.OnlineEmotionRecognition/HCUK.EmotionDetector/obj/Debug
+/HCUK.OnlineEmotionRecognition/packages
+/HCUK.SQLDeploy/SQLDeploy/bin/Debug
+/HCUK.SQLDeploy/SQLDeploy/obj/Debug
+/HCUK.SQLDeploy/FixSchemaNames/bin/Debug
+/HCUK.SQLDeploy/FixSchemaNames/obj/Debug
+/HCUK.SQLDeploy/FixSchema/obj/Debug
+/HCUK.SQLDeploy/CreateStoredProcedures/bin/Debug
+/HCUK.SQLDeploy/CreateStoredProcedures/obj/Debug

@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DeviceSimulators", "DeviceSimulators", "{74E068D0-1FF8-4ECB-BEFE-692097D4BD92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HCUK.IoT.DeviceSimulators.TPSensor", "HCUK.IoT.DeviceSimulators.TPSensor\HCUK.IoT.DeviceSimulators.TPSensor.csproj", "{05D9121B-5AD4-42E3-9726-AC1DF68B8DE0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{5803233C-1C35-421E-8F22-12F49ADF594B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HCUK.IoT.Model", "HCUK.IoT.Model\HCUK.IoT.Model.csproj", "{C210372A-313F-46A2-83F0-87C5A717B308}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HCUK.IoT.AzureIoTServices", "HCUK.IoT.AzureIoTServices\HCUK.IoT.AzureIoTServices.csproj", "{62BFCAA1-07F1-484A-90E2-DAC949818488}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{02787D54-62E1-478E-A7FA-E52445269A9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tester", "Tester\Tester.csproj", "{9CBEFFB7-1759-4365-95FE-4FB35CBCB609}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05D9121B-5AD4-42E3-9726-AC1DF68B8DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D9121B-5AD4-42E3-9726-AC1DF68B8DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D9121B-5AD4-42E3-9726-AC1DF68B8DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D9121B-5AD4-42E3-9726-AC1DF68B8DE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C210372A-313F-46A2-83F0-87C5A717B308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C210372A-313F-46A2-83F0-87C5A717B308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C210372A-313F-46A2-83F0-87C5A717B308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C210372A-313F-46A2-83F0-87C5A717B308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62BFCAA1-07F1-484A-90E2-DAC949818488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62BFCAA1-07F1-484A-90E2-DAC949818488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62BFCAA1-07F1-484A-90E2-DAC949818488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62BFCAA1-07F1-484A-90E2-DAC949818488}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CBEFFB7-1759-4365-95FE-4FB35CBCB609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CBEFFB7-1759-4365-95FE-4FB35CBCB609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CBEFFB7-1759-4365-95FE-4FB35CBCB609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CBEFFB7-1759-4365-95FE-4FB35CBCB609}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{05D9121B-5AD4-42E3-9726-AC1DF68B8DE0} = {74E068D0-1FF8-4ECB-BEFE-692097D4BD92}
+		{C210372A-313F-46A2-83F0-87C5A717B308} = {5803233C-1C35-421E-8F22-12F49ADF594B}
+		{62BFCAA1-07F1-484A-90E2-DAC949818488} = {02787D54-62E1-478E-A7FA-E52445269A9B}
+	EndGlobalSection
+EndGlobal
